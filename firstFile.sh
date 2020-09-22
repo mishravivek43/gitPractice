@@ -15,3 +15,5 @@ echo $(( x / y ))
 echo "Checking Modulus Remainder between two numbers"
 echo $(( x % y ))
 echo "We are editing this at server";
+echo "Suhana Safar Aur Ye Mausam Hasin";
+echo "Do aur Do Panch";
