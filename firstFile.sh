@@ -25,3 +25,5 @@ echo "Baaaddaaaaaa";
 else
 echo "Chhhhooootttttaaaaa";
 fi
+echo "Suhana Safar Aur Ye Mausam Hasin";
+echo "Do aur Do Panch";
